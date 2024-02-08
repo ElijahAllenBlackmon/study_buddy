@@ -4,9 +4,9 @@ print("Chapter 1 Questions\n")
 
 def main():
     CH1_score = 0
-    CH3_score = 0
-    CH2_score = 0
-    CH4_score = 0
+    # CH3_score = 0
+    # CH2_score = 0
+    # CH4_score = 0
 
     for x in range(len(data.CH1_Q)):
 
