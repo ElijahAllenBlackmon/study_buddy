@@ -28,9 +28,9 @@ CH1_Q = [
     input("Specialized ports on networking devices that connect individual networks:\n"),
     input("Confidentiality, integrity, and availability are requirements of which of the four basic characteristics of network architecture?:\n"),
     input("Safe/secure access to outsiders from organizations; suppliers,contractors:\n"),
-    input("Typically provide slower speed links between LANs:"),
+    input("Typically provide slower speed links between LANs:\n"),
     input("Connector, outlet on a networking device where the media connects either to an end device, or another networking device:\n"),
-    input("Illustrates the physical topolgy of intermediary devices:\n"),
+    input("Illustrates the cable and hardware setup between intermediary and end devices:\n"),
     input("Provides uploads and downloads at the same high speeds:\n"),
     input("Private connection of LANs and WANs; belongs to an organization:\n"),
     input("In context, refers to the technologies that support the infrastructure & programmed services/rules/protocols, that move data across the network:\n"),
@@ -39,19 +39,19 @@ CH1_Q = [
     input("Data traveling through different paths but to the same destination:\n"),
     input("Bandwidth demand exceeds available amount; bps:\n"),
     input("Assures safe information transmission from source to destination:\n"),
-    input("Timely reliable data access:\n"),
-    input("Which topology does Ethernet belong to?\n"),
     input("Physical/Flat Unique Identifier:\n"),
+    input("Which topology does Ethernet belong to?\n"),
+    input("Timely reliable data access:\n"),
     input("Only intended and authorized recipients can access data:\n"),
     input("CCNA:\n"),
     input("NAT:\n"),
     input("Sometimes known as Ethernet WAN, extend LAN access technology into the WAN.:\n"),
     input("FDDI:\n"),
     input("Which attack slows down or crashes equipment and programs?\n"),
-    input("Which option creates a secure connection for remote workers?\n"),
-    input("Which option blocks unauthorized access to your network?\n"),
-    input("Which option describes a network attack that occurs on the first day that a vulnerability becomes known?\n"),
-    input("Which option describes malicious code running on user devices?\n")
+    input("What network creates a secure connection for remote workers?\n"),
+    input("What software blocks unauthorized access to your network?\n"),
+    input("What describes a network attack that occurs on the first day that a vulnerability becomes known?\n"),
+    input("What describes malicious code running on user devices?\n")
 ]
 # CH3_Q = []
 # CH2_Q = []
@@ -99,7 +99,7 @@ CH1_A = [
     "Congestion",
     "Integrity",
     "MAC Address",
-    "Physical Topology",
+    "Physical",
     "Availability",
     "Confidentiality",
     "Cisco Certified Network Administration",
@@ -110,7 +110,7 @@ CH1_A = [
     "Virtual Private Network",
     "Firewall",
     "Zero-Day or Zero-Hour",
-    "Virus, Worm, or Trojan Horse"
+    "Virus, Worm, or Trojan"
 ]
 # CH3_A = []
 # CH2_A = []
