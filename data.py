@@ -53,7 +53,26 @@ CH1_Q = [
     input("What describes a network attack that occurs on the first day that a vulnerability becomes known?\n"),
     input("What describes malicious code running on user devices?\n")
 ]
-# CH3_Q = []
+CH3_Q = [
+    input("Enables 2 or more devices to communicate over 1 or more networks; IP, TCP, HTTP:\n"),
+    input("Data authentication, integrity, encryption; SSH, SSL, TLS:\n"),
+    input("Routers exchange route information, compare route information; best path to dest. network. OSPF, BGP:\n"),
+    input("Automatic detection of devices or services; DHCP service discovery for IP Address allocation; DNS:\n"),
+    input("Group of interrelated protocols necessary to perform a communication function:\n"),
+    input("SLAAC:\n"),
+    input("Translates domain names into IP Addresses:\n"),
+    input("Dynamically assigns IPv4 addressing info. to clients at the startup and allows the addresses to be reused when no longer needed:\n"),
+    input("A method that allows a device to obtain IPv6 addressing info. without a DHCPv6 server:\n"),
+    input("Enables clients to send email to a mail server and enables servers to send email to other servers:\n"),
+    input("Enables clients to retrieve email from a mail server and download the email to the client's local mail app:\n"),
+    input("Enables clients to access email stored on a mail server as well as maintaining email on the server:\n"),
+    input("Sets the rules that enable a user on one host to access and transfer files to and from another host over a network; reliable, connection-oriented, and acknowledged delivery protocol:\n"),
+    input("An extension of Secure Shell Protocol; can be used to establish secure file transfer sessions in which file transfer is encrypted. SSH is a method for secure remote login that is typically used for accessing the CLI of a device:\n"),
+    input("Simple, connection-less file transfer protocol with best-effort, unacknowledged file delivery; less overhead than FTP:\n"),
+    input("A set of rules for exchanging text in, graphic images, sound, video, and other multimedia files on the World Wide Web:\n"),
+    input("Encrypts the data that is exchanged over the WWW:\n"),
+    input("A web service that uses application programming interfaces (APIs) and HTTP requests to create web applications:\n")
+]
 # CH2_Q = []
 # CH4_Q = []
 
@@ -112,6 +131,25 @@ CH1_A = [
     "Zero-Day or Zero-Hour",
     "Virus, Worm, or Trojan"
 ]
-# CH3_A = []
+CH3_A = [
+    "Network Communications Protocols",
+    "Network Security Protocols",
+    "Routing Protocols",
+    "Service Discovery Protocols",
+    "Network Protocol Suites",
+    "Stateless Address Autoconfiguration",
+    "Domain Name System",
+    "DHCPv4",
+    "Stateless Address Autoconfiguration",
+    "Simple Mail Transfer Protocol",
+    "Post Office Protocol 3",
+    "Internet Message Access Protocol",
+    "File Transfer Protocol",
+    "Secure Shell File Transfer Protocol",
+    "Trivial File Transfer Protocol",
+    "Hypertext Transfer Protocol",
+    "Hypertext Transfer Protocol Secure",
+    "Representational State Transfer"
+]
 # CH2_A = []
 # CH4_A = []
