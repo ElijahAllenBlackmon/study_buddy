@@ -13,6 +13,7 @@
         "OSPF",
         "pookie",
         "SLAAC",
-        "Topolgy"
+        "Topolgy",
+        "WLAN"
     ]
 }

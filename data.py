@@ -72,10 +72,10 @@ CH3_Q = [
     input("A set of rules for exchanging text in, graphic images, sound, video, and other multimedia files on the World Wide Web:\n"),
     input("Encrypts the data that is exchanged over the WWW:\n"),
     input("A web service that uses application programming interfaces (APIs) and HTTP requests to create web applications:\n"),
-    input("Enables reliable communication between processes running on separate hosts and provides reliable, acknowledged transmissions that confirm successful delivery:"),
+    input("Enables reliable communication between processes running on separate hosts and provides reliable, acknowledged transmissions that confirm successful delivery:\n"),
     input("Enables a process on one host to send packets to a process on another host; does not confirm successful datagram transmission:\n"),
-    input("Receives message segments from the transport layer, packages messages into packets, and addresses packetse for end-to-end delivery over a network. uses 32bit address:\n"),
-    input("Uses 128bit address:\n"),
+    input("Receives message segments from the transport layer, packages messages into packets, and addresses packets for end-to-end delivery over a network. uses 32 bit address:\n"),
+    input("Uses 128 bit address:\n"),
     input("Translates IPv4 addresses from a private network into globally unique public IPv4 addresses:\n"),
     input("Provides feedback from destination host to a source host about errors in packet delivery:\n"),
     input("Includes four protocol messages that are used for address resolution and duplicate address detection:\n"),
@@ -83,10 +83,30 @@ CH3_Q = [
     input("An open standard routing protocol developed by CISCO that uses a composite metric based on bandwidth, delay, load, and reliability:\n"),
     input("An open standard exterior gateway routing protocol used between ISPs; commonly between ISPs and their large private clients to exchange routing info:\n"),
     input("Provides dynamic address mapping between an IPv4 address and a hardware address:\n"),
-    input("Defines rules for wiring and signaling standards on network access layer:\n"),
-    input("Defines rules for wireless signaling across the 2.4GHz and 5GHz radio frequencies:\n")
+    input("Defines rules for wiring and signaling standards on the network access layer:\n"),
+    input("Defines rules for wireless signaling across the 2.4GHz and 5GHz radio frequencies:\n"),
+    input("MAC:\n"),
+    input("MAC Addresses are physically embedded on the Ethernet:\n"),
+    input("Data Link address, or the Ethernet address of the device that sends the data link frame from the encapsulated IP packet:\n"),
+    input("When the receiving device is on the same network as the sending device, this is the data link address of the receiving device:\n")
 ]
-# CH2_Q = []
+CH2_Q = [
+    input(
+        "UI that allows users to request specific tasks on PC; can be done through CLI or GUI interfaces:\n"),
+    input("Communicates between the hardware and software of a computer; manages how hardware is used to meet software requirements:\n"),
+    input("Physical part of a computer including underlying electronics:\n"),
+    input("\n"),
+    input("\n"),
+    input("\n"),
+    input("\n"),
+    input("\n"),
+    input("\n"),
+    input("\n"),
+    input("\n"),
+    input("\n"),
+    input("\n"),
+    input("\n"),
+]
 # CH4_Q = []
 
 CH1_A = [
@@ -166,7 +186,34 @@ CH3_A = [
     "Transmission Control Protocol",
     "User Datagram Protocol",
     "IPv4",
-
+    "IPv6",
+    "Network Address Translation",
+    "ICMPv4",
+    "ICMPv6 ND",
+    "Open Shortest Path First",
+    "Enhanced Interior Gateway Routing Protocol",
+    "Border Gateway Protocol",
+    "Address Resolution Protocol",
+    "Ethernet",
+    "WLAN",
+    "Media Access Control",
+    "Network Interface Card",
+    "Source MAC Address",
+    "Destination MAC Address"
 ]
-# CH2_A = []
+CH2_A = [
+    "Shell",
+    "Kernel",
+    "Hardware",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+]
 # CH4_A = []
