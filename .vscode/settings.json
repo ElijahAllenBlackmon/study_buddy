@@ -9,12 +9,17 @@
         "datagram",
         "Extranet",
         "FDDI",
+        "Gbps",
+        "Goodput",
         "ICANN",
         "Internetwork",
+        "kbps",
+        "Mbps",
         "NVRAM",
         "OSPF",
         "pookie",
         "SLAAC",
+        "Tbps",
         "Topolgy",
         "WLAN"
     ]
