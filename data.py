@@ -154,10 +154,17 @@ CH4_Q = [
     input("The measure of the transfer of bits across the media over a given period of time; usually lower than the bandwidth:\n"),
     input("The measure of usable data transferred over a given period of time; always lower than throughput:\n"),
     input("The farther a signal travels, the more it deteriorates:\n"),
-    input("\n"),
-    input("\n"),
-    input("\n"),
+    input("The electrical characteristics of copper cabling are defined by:\n"),
+    input("UTP cable is usually terminated with an    connector:\n"),
+    input("The most common type of networking cable. It is commonly used to interconnect a host to a switch and a switch to a router:\n"),
+    input("A cable used to interconnect similar devices; to connect a switch to a switch, a host to a host, or a router to a router:\n"),
+    input("Both ends T568A or both ends T568B:\n"),
+    input("One end T568A, other end T568B\n"),
+    input("IEEE 802.11\n"),
+    input("CSMA/CA\n"),
+    input("CSMA/CD\n")
 ]
+CH5_Q = []
 
 # CH1_A = [
 #     "Intermediary Device",
@@ -315,7 +322,14 @@ CH4_A = [
     "Throughput",
     "Goodput",
     "Signal Attenuation",
-    "",
-    "",
-    "",
+    "Institute of Electrical and Electronics Engineers",
+    "RJ-45",
+    "Ethernet Straight-through",
+    "Ethernet Crossover",
+    "Ethernet Straight-through",
+    "Ethernet Crossover",
+    "Wi-Fi",
+    "Carrier Sense Multiple Access/Collision Avoidance",
+    "Carrier Sense Multiple Access/Collision Detection"
 ]
+CH5_A = []
