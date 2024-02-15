@@ -145,10 +145,10 @@ CH4_Q = [
     input("The capacity at which a medium can carry data:\n"),
     input("Bandwidth is typically measured in:\n"),
     input("Fundamental unit of bandwidth:\n"),
-    input("1 Kbps =\n"),
-    input("1 Mbps =\n"),
-    input("1 Gbps =\n"),
-    input("1 Tbps =\n"),
+    input("1 kbps:\n"),
+    input("1 Mbps:\n"),
+    input("1 Gbps:\n"),
+    input("1 Tbps:\n"),
     input("Terms used to measure the quality of bandwidth include:\n"),
     input("Refers to the amount of time, including delays, for data to travel from one given point to another:\n"),
     input("The measure of the transfer of bits across the media over a given period of time; usually lower than the bandwidth:\n"),
@@ -164,7 +164,7 @@ CH4_Q = [
     input("CSMA/CA\n"),
     input("CSMA/CD\n")
 ]
-CH5_Q = []
+# CH5_Q = []
 
 # CH1_A = [
 #     "Intermediary Device",
@@ -305,14 +305,14 @@ CH4_A = [
     "Internet Engineering Task Force",
     "International Organization for Standardization",
     "Telecommunications Industry Association/Electronic Industries Association",
-    "International Telecommunication Association",
+    "International Telecommunication Union",
     "American National Standards Institute",
-    "Institute of Electronics and Electronics Engineers",
+    "Institute of Electrical and Electronics Engineers",
     "Physical Components, Encoding, Signaling",
     "Encoding",
     "Bandwidth",
     "kbps, Mbps, or Gbps",
-    "1 bps",
+    "bps",
     "1,000 bps",
     "1,000,000 bps",
     "1,000,000,000 bps",
@@ -332,4 +332,4 @@ CH4_A = [
     "Carrier Sense Multiple Access/Collision Avoidance",
     "Carrier Sense Multiple Access/Collision Detection"
 ]
-CH5_A = []
+# CH5_A = []
